@@ -1,0 +1,7 @@
+{
+  "name": "OSocial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
